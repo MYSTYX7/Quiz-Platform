@@ -43,8 +43,8 @@
      * React-redux is used for state management .
      * Framer Motion is used for animation.
 
-Deployment link : 
-Github link : 
+[Deployment link](https://quiz-platform7.netlify.app/)
+[Github link](https://github.com/MYSTYX7/Quiz-Platform)
 
 React-redux Component :
 
